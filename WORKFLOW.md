@@ -28,6 +28,7 @@ Vergelijk vóór aanmaak of wijziging de ingevulde gegevens met de originele fac
 - Controleer afzonderlijk het bedrag exclusief btw, btw-bedrag en bedrag inclusief btw. Controleer of Moneybird op inclusief of exclusief staat en of prijs maal aantal, eventuele kortingen en afrondingen aansluiten.
 - Kies de actieve inkoop-btw-code die overeenkomt met factuur én toepasselijke btw-behandeling. Neem nooit een standaardwaarde zoals vrijgesteld over zonder bewijs. Bij verlegging ook de aangifterubrieken controleren.
 - Beschrijf de werkelijke aankoop of werkzaamheden. Neem geen omschrijving, termijnpercentage, orderreferentie of factuurregel van een eerdere factuur over.
+- Garantiewerk valt onder de passende grootboekrekening voor garantiekosten. Verwar garantiewerk niet met productiemateriaal. Koppel geen project of subproject zonder onderbouwing; bij expliciet projectloze garantiekosten blijven beide leeg.
 - Onderbouw grootboekcategorie en project/caravan uit de factuur of bekende opdrachtcontext. Een eerder gebruikt project is geen bewijs. Laat een optioneel onbekend project leeg; blokkeer verwerking als noodzakelijke informatie ontbreekt.
 - Controleer betalingstermijn en bestaande/geplande betalingen voordat een betaalopdracht wordt voorbereid. Betaalgegevens alleen uit gecontroleerde bronnen gebruiken.
 - Sla een financiële wijziging niet op zolang een verschil of onzekere btw-behandeling onopgelost is. Vermeld precies wat nog moet worden vastgesteld.
